@@ -1,2 +1,4 @@
-# Cross-Browser-Testing
-Selenium Grid and its  advantages, creating component, create physical node and register with Grid-check grid health, create selenium TestNG test  with desired capabilities, remote Web driver class, executing selenium scripts in node machines from grid hub.
+# Cross-Browser-Testing(cloud)
+I have given a little demo of it.With help of browserstack we can also do cross browser testing for different browser with different version.
+
+
